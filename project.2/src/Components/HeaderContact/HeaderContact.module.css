@@ -1,0 +1,27 @@
+ 
+.headerContact h1{
+width: 315px;
+height: 45px;
+margin-top: 20px;
+margin-bottom: 5px;
+margin-left: 188px;
+font-family: Poppins;
+font-weight: 800px;
+font-size: 48px;
+line-height: 100%;
+letter-spacing: 0%;
+ 
+
+}
+.headerContact p{
+	 width: 900px;
+	 height: 60px;
+	 margin-left: 188px;
+     font-family: Poppins;
+	 font-weight: 600;
+	 font-size: 16px;
+	 line-height: 100%;
+	 letter-spacing: 0%;
+	 margin-top: 0px;
+	color: gray;
+}

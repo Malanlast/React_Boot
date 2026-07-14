@@ -1,0 +1,19 @@
+.header{
+	
+	width: 1440px;
+    height: 72px;
+    margin-left: 85px;
+	display: flex;
+	 
+	align-items: center;
+    
+}
+
+.header ul{
+	display: flex;
+	font-size: 24px;
+	list-style-type: none;
+	font-weight: 500;
+	margin-left: 850px;
+	gap:35px;
+}
